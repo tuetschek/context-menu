@@ -11,3 +11,6 @@ The custom command for **muCommander** in the `HOME\.mucommander\commands.xml` f
 <command alias="contextMenu" value="C:\\Path\\To\\ContextMenu.exe &quot;$f&quot;" /> 
 
 ```
+
+---
+_This project has been migrated from Google Code._
